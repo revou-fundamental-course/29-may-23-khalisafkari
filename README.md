@@ -4,5 +4,5 @@
 
 ## INFO 
 **Tidak bisa menggunakan github pages sebagai ganti menggunakan surge.sh**
-> Url: `https://revou-khalis-surge.sh`
+> Url: `https://revou-khalis.surge.sh`
 
